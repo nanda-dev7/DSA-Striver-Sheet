@@ -50,7 +50,7 @@ Space Complexity: O(1)
 
 -----------------------------------
 
-Edge Cases:
+Edge Cases:   
 - If n < 2 → return -1
 - If all elements are equal → no second largest/smallest
 - Handle negative numbers correctly
