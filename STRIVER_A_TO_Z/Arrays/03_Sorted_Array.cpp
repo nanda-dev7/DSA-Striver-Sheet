@@ -17,7 +17,7 @@ Space Complexity: O(1)
 -----------------------------------
 
 Optimal Approach:
-- Traverse the array from index 1 to n-1
+- Traverse the array from index 1 to n-1   
 - Compare current element with previous element
 - If arr[i] < arr[i-1] → return false
 - If no such case is found → return true
